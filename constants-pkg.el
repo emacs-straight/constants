@@ -1,0 +1,2 @@
+;; Generated package description from constants.el  -*- no-byte-compile: t -*-
+(define-package "constants" "2.11.1.0.20240827.95043" "Enter definition of constants into source code" '((emacs "24.1")) :commit "f07e221d4d5597c7ccf4b0003c0909a88bdfcc9e" :authors '(("Carsten Dominik" . "carsten.dominik@gmail.com")) :maintainer '("Carsten Dominik" . "carsten.dominik@gmail.com") :keywords '("programming" "languages") :url "https://github.com/cdominik/constants-for-Emacs")
